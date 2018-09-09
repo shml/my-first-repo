@@ -1,3 +1,0 @@
-Los siguientes renglones son modificaciones hechas a file1.txt en el branch update-file1
-Renglon uno en el branch update-file1
-Renglon dos en el branch update-file2
